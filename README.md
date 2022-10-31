@@ -10,7 +10,7 @@ Nesta aula através de um evento usando caixas de texto do java swing você irá
 ![Memento - swing](https://user-images.githubusercontent.com/42419543/199124650-575959bd-fbfd-4fb8-8009-096022308cac.png)
 
 
-## Slides
+## [Slides](https://docs.google.com/presentation/d/1P9lddZNxJpgVwOjNUuE1QODkT3DekMQUl6_5Y0Vvh6Y/edit?usp=sharing)
 
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/anabneri) |
