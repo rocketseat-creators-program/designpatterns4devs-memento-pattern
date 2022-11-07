@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/uc?id=1XPWLjUo2-j8iGw07ALcxu7oqJ3nkl2Ho" alt="Rocketseat+"/>
+
 # DesignPatterns4Devs - Memento
 
 Uma foto de um elemento para voltar a seu último estado? Exatamente isso!
